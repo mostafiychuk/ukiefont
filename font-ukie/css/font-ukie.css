@@ -1,5 +1,5 @@
 /**
- *  UkieFont 0.0.3 - https://font.ukieweb.com
+ *  UkieFont 0.0.4 - https://font.ukieweb.com
  *  License - https://font.ukieweb.com/license
  */
 
@@ -23,6 +23,100 @@
     -moz-osx-font-smoothing: grayscale;
 }
 
+
+.uf-camera:before {
+    content: "\e94d";
+}
+.uf-arrow-down-small:before {
+    content: "\e94e";
+}
+.uf-arrow-left-small:before {
+    content: "\e94f";
+}
+.uf-arrow-right-small:before {
+    content: "\e950";
+}
+.uf-arrow-up-small:before {
+    content: "\e951";
+}
+.uf-heart:before {
+    content: "\e952";
+}
+.uf-link-u:before {
+    content: "\e953";
+}
+.uf-eye:before {
+    content: "\e935";
+}
+.uf-loading-circle:before {
+    content: "\e936";
+}
+.uf-shop-cart-u:before {
+    content: "\e937";
+}
+.uf-quote:before {
+    content: "\e938";
+}
+.uf-laptop:before {
+    content: "\e939";
+}
+.uf-copy:before {
+    content: "\e93a";
+}
+.uf-clock:before {
+    content: "\e93b";
+}
+.uf-bulb:before {
+    content: "\e93c";
+}
+.uf-trash:before {
+    content: "\e93d";
+}
+.uf-location-arrow:before {
+    content: "\e93e";
+}
+.uf-folder-open:before {
+    content: "\e93f";
+}
+.uf-flag:before {
+    content: "\e940";
+}
+.uf-flag-angle:before {
+    content: "\e941";
+}
+.uf-folder:before {
+    content: "\e942";
+}
+.uf-desktop:before {
+    content: "\e943";
+}
+.uf-user:before {
+    content: "\e944";
+}
+.uf-align-center:before {
+    content: "\e945";
+}
+.uf-align-justify:before {
+    content: "\e946";
+}
+.uf-align-left:before {
+    content: "\e947";
+}
+.uf-align-right:before {
+    content: "\e948";
+}
+.uf-comment-center:before {
+    content: "\e949";
+}
+.uf-comment-center-dots:before {
+    content: "\e94a";
+}
+.uf-comment:before {
+    content: "\e94b";
+}
+.uf-comment-dots:before {
+    content: "\e94c";
+}
 .uf-file:before {
     content: "\e91a";
 }
