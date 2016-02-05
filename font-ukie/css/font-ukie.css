@@ -1,5 +1,5 @@
 /**
- *  UkieFont 0.0.4 - https://font.ukieweb.com
+ *  UkieFont 0.5 - https://font.ukieweb.com
  *  License - https://font.ukieweb.com/license
  */
 
@@ -24,6 +24,93 @@
 }
 
 
+.uf-behance:before {
+    content: "\e959";
+}
+.uf-dribbble:before {
+    content: "\e95a";
+}
+.uf-flickr:before {
+    content: "\e95b";
+}
+.uf-foursquare:before {
+    content: "\e95c";
+}
+.uf-gihub:before {
+    content: "\e95d";
+}
+.uf-google:before {
+    content: "\e95e";
+}
+.uf-linkedin:before {
+    content: "\e95f";
+}
+.uf-meetup:before {
+    content: "\e960";
+}
+.uf-odnoklassniki:before {
+    content: "\e961";
+}
+.uf-pinterest:before {
+    content: "\e962";
+}
+.uf-renren:before {
+    content: "\e963";
+}
+.uf-skype:before {
+    content: "\e964";
+}
+.uf-trumblr:before {
+    content: "\e965";
+}
+.uf-twoo:before {
+    content: "\e966";
+}
+.uf-vimeo:before {
+    content: "\e967";
+}
+.uf-vine:before {
+    content: "\e968";
+}
+.uf-vkontakte:before {
+    content: "\e969";
+}
+.uf-whatsapp:before {
+    content: "\e96a";
+}
+.uf-xing:before {
+    content: "\e96b";
+}
+.uf-youtube:before {
+    content: "\e96c";
+}
+.uf-price:before {
+    content: "\e96d";
+}
+.uf-team:before {
+    content: "\e96e";
+}
+.uf-keyboard:before {
+    content: "\e96f";
+}
+.uf-mouse:before {
+    content: "\e970";
+}
+.uf-instagram:before {
+    content: "\e957";
+}
+.uf-dribbble2:before {
+    content: "\e958";
+}
+.uf-code:before {
+    content: "\e954";
+}
+.uf-comment-center-rounded:before {
+    content: "\e955";
+}
+.uf-wrench:before {
+    content: "\e956";
+}
 .uf-camera:before {
     content: "\e94d";
 }
