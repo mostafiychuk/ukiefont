@@ -1,5 +1,5 @@
 /**
- *  UkieFont 0.5 - https://font.ukieweb.com
+ *  UkieFont 0.6 - https://font.ukieweb.com
  *  License - https://font.ukieweb.com/license
  */
 
@@ -22,7 +22,6 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-
 
 .uf-behance:before {
     content: "\e959";
@@ -363,4 +362,9 @@
 .uf-twitter:before {
     content: "\e918";
 }
-
+.uf-paper-airplane:before {
+    content: "\e972";
+}
+.uf-copyright:before {
+    content: "\e971";
+}
