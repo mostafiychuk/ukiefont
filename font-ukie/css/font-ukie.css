@@ -1,5 +1,5 @@
 /**
- *  UkieFont 0.7 - https://font.ukieweb.com
+ *  UkieFont 0.8 - https://font.ukieweb.com
  *  License - https://font.ukieweb.com/license
  */
 
@@ -23,6 +23,46 @@
     -moz-osx-font-smoothing: grayscale;
 }
 
+
+.uf-delivery:before {
+    content: "\e97f";
+}
+.uf-education-hat:before {
+    content: "\e980";
+}
+.uf-info:before {
+    content: "\e981";
+}
+.uf-lock:before {
+    content: "\e982";
+}
+.uf-question:before {
+    content: "\e983";
+}
+.uf-question-solid:before {
+    content: "\e984";
+}
+.uf-reply:before {
+    content: "\e985";
+}
+.uf-star-empty:before {
+    content: "\e986";
+}
+.uf-star-full:before {
+    content: "\e987";
+}
+.uf-star-half:before {
+    content: "\e988";
+}
+.uf-star-half-full:before {
+    content: "\e989";
+}
+.uf-unlock:before {
+    content: "\e98a";
+}
+.uf-user-small:before {
+    content: "\e98b";
+}
 .uf-equalizer:before {
     content: "\e97e";
 }
